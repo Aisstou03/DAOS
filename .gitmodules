@@ -1,0 +1,3 @@
+[submodule "DAOS"]
+	path = DAOS
+	url = https://github.com/Aisstou03/DAOS.git
